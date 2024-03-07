@@ -1,0 +1,146 @@
+@media(max-width:769px){
+    *{padding:0; margin:0;}
+    nav.navigation{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .menu-button{
+        display: inline-block;
+    }
+    .menu-wrapper{
+        width:60%
+    }
+    ul.menu-controler{
+        position: absolute;
+        z-index: 9999;
+        background: #64ddbb;
+        width: 100%;
+        left: -900px;
+        top:131px;
+		padding:0px;
+        transition:0.3s all ease-in-out;
+        -o-transition:0.3s all ease-in-out;
+        -ms-transition:0.3s all ease-in-out;
+        -moz-transition:0.3s all ease-in-out;
+        -webkit-transition:0.3s all ease-in-out;
+    }
+    ul.menu-controler.side-menu-active{
+        left:0;
+    }
+    li.menu-link-wrp{
+        width:100%;
+    }
+    .active-menu-home a{
+        color:#fff;
+    }
+    header.header.header-add .scroll-this{
+        position: static;
+    }
+	a.menu-link-here{
+		display: block;
+		border-bottom: 1px solid #fdfdfd;
+	}
+    
+    li.paynow-btn{
+        width: 96%;
+        margin: 0px auto;
+        float: left;
+        margin-left: 2%;
+    }
+    a.link-pay-now{
+        display: block;
+        border: 1px solid #fff;
+        text-align: center;
+        padding: 10px 0px;
+    }
+    #bharat_hostel .carousel-caption{
+        width:80%;
+        bottom: 32px;
+    }
+    #bharat_hostel .carousel-caption h3{
+        font-size:14px;
+    }
+    #bharat_hostel .carousel-caption p{
+        display:none;
+    }
+    a.carousel-control-prev, a.carousel-control-next{
+        top:16%;
+    }
+    
+    
+    .service-box-theres{
+        margin-bottom:40px;
+    }
+    h3.title-logo-bharat-hostel{
+        margin-top:30px;
+    }
+    p.footer-disc-about-bharat-hostel{
+        margin-bottom:0px;
+    }
+    
+    .copyright p{
+        text-align: center;
+        width:100%;
+    }
+    .wrp-about-side-image{
+        height:auto;
+        display:none;
+    }
+    
+    .service-on-glance h3.title-services{
+        font-size:28px;
+    }
+    .text-wrapper-contact-now-us h3{
+        font-size: 28px;
+    }
+    .font-size-changer{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    
+    .wrapper-check-user.row{
+        padding-left:30px;
+    }
+    .title-our-room{
+        font-size:26px;
+        font-weight:600;
+        padding-bottom:13px;
+    }
+    h3.title-servie-box{
+        margin:7px 0 10px 0;
+    }
+    
+    .header-right{
+        display:none;
+    }
+    .header-top-left{}
+    .list-in-header-part li a{
+        font-size:10px;
+    }
+    .item.wow.fadeInUp {
+        padding: 10px 15px;
+    }
+    #services-bharat-hostel{
+        margin-bottom:20px;
+    }
+    
+}
+@media(max-width:560px){
+    .testimonial-wrapper-box{
+        display:block;
+        min-height:440px;
+    }
+    .img-testimonial-wrapper img{
+        display: block !important;
+        width: 120px !important;
+        text-align: center;
+        margin: 0px auto;
+    }
+    .content-testimonial{
+        width: 100%;
+        margin: 0px;
+        text-align: center;
+        padding-top: 34px;
+    }
+}

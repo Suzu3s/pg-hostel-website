@@ -1,0 +1,6 @@
+[15-Jul-2019 07:07:11 UTC] PHP Notice:  Undefined variable: full_name in /home/igkvwab3jfsj/public_html/bharat_hostel/contact-us.php on line 232
+[15-Jul-2019 07:18:27 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/igkvwab3jfsj/public_html/bharat_hostel/contact-us.php on line 232
+[15-Jul-2019 07:18:56 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/igkvwab3jfsj/public_html/bharat_hostel/contact-us.php on line 232
+[15-Jul-2019 07:24:20 UTC] PHP Parse error:  syntax error, unexpected '"\n\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/igkvwab3jfsj/public_html/bharat_hostel/contact-us.php on line 232
+[15-Jul-2019 07:29:40 UTC] PHP Parse error:  syntax error, unexpected '"\n\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/igkvwab3jfsj/public_html/bharat_hostel/contact-us.php on line 232
+[15-Jul-2019 07:35:51 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/igkvwab3jfsj/public_html/bharat_hostel/contact-us.php on line 238

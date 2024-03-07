@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "F:/webdesign"
+		},
+		{
+			"path": "F:/Javascript/javascript_practice"
+		},
+		{
+			"path": "F:/Javascript"
+		},
+		{
+			"path": "F:/react learning"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascript_practice"
+	}
+}
